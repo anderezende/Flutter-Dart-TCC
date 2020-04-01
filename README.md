@@ -1,5 +1,5 @@
 # Flutter-Dart-TCC
-Neste repositorio foi upload de todo o projeto (mesmo não sendo recomendado), para fins didaticos... Existem diversas funcionalidades que podem servir de base para outro trabalhos...
+Neste repositorio foi feito o upload de todo o projeto (mesmo não sendo recomendado), para fins didaticos... Existem diversas funcionalidades que podem servir de base para outro trabalhos...
 
 Algumas funcionalidades: Notificação com FCM do Google, Animação, Requisição Rest, Troca de interface, Troca de valores entre componentes(exemplo de um calendario), entre outras.
 
